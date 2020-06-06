@@ -8,3 +8,4 @@ let choice =imageJson[Math.floor(Math.random()* imageJson.length)] ;
 
 console.log(imageJson);
 console.log(choice);
+
